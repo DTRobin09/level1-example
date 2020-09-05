@@ -4,4 +4,7 @@
     <string name="image_description">giraffe</string>
     <string name="hint">Species</string>
     <string name="confirm_button">Confirm</string>
+    <string name="giraffe">Giraffe</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Incorrect, the correct answer is Giraffe!</string>
 </resources>
